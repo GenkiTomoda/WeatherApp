@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="cal_plus_button">+</string>
+    <string name="cal_minus_button">-</string>
+    <string name="cal_times_button">×</string>
+    <string name="cal_divid_button">÷</string>
 </resources>
